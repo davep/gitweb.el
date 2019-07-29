@@ -2,7 +2,7 @@
 ;; Copyright 2019 by Dave Pearson <davep@davep.org>
 
 ;; Author: Dave Pearson <davep@davep.org>
-;; Version: 0.01
+;; Version: 1.0
 ;; Keywords: hypermedia
 ;; URL: https://github.com/davep/gitweb.el
 ;; Package-Requires: ((emacs "24.4"))
